@@ -8,11 +8,16 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
 </head>
 <body>
+
     <div class="container">
-        <h1>Este es un H1</h1>
-        <h2>Este es un H2</h2>
-        <h3>Este es un H3</h3>
+        <div class="grid grid-cols-4">
+            <div class="bg-blue-100">A</div>
+            <div class="bg-blue-200">B</div>
+            <div class="bg-blue-300">C</div>
+            <div class="bg-blue-400">D</div>
+        </div>
     </div>
+
     <script src="{{asset('js/app.js')}}"></script>
 </body>
 </html>
