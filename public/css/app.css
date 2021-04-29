@@ -31833,6 +31833,27 @@ video {
   --tw-backdrop-sepia: sepia(100%);
 }
 
+h1{
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+p{
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+
+li{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  line-height: 1.625;
+  font-style: italic;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
