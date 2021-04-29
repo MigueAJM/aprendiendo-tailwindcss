@@ -11,7 +11,7 @@
 
     <div class="container">
         <h1 class="font-sans text-6xl md:text-3xl font-bold">Este es un titulo</h1>
-        <p class="font-serif mb-6">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, fugiat modi cupiditate nostrum, deleniti iste, dolorem earum placeat distinctio dicta qui tempora aliquid! Accusantium possimus officia nulla cum delectus voluptate?</p>
+        <p class="font-serif mb-3 -ml-3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, fugiat modi cupiditate nostrum, deleniti iste, dolorem earum placeat distinctio dicta qui tempora aliquid! Accusantium possimus officia nulla cum delectus voluptate?</p>
         <ul class="font-mono text-sm italic leading-relaxed">
             <li>Elemento #1</li>
             <li>Elemento #2</li>
