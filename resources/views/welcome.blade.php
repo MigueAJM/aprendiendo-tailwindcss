@@ -10,10 +10,10 @@
 <body>
 
     <div class="container">
-        <div class="grid grid-cols-4 gap-4">
-            <div class="bg-blue-100 col-span-2 col-start-2">A</div>
-            <div class="bg-blue-200 col-start-1">B</div>
-            <div class="bg-blue-300">C</div>
+        <div class="grid grid-cols-4 grid-rows-2 gap-4">
+            <div class="bg-blue-100">A</div>
+            <div class="bg-blue-200">B</div>
+            <div class="bg-blue-300 col-span-2 row-span-2">C</div>
             <div class="bg-blue-400">D</div>
         </div>
     </div>
