@@ -10,7 +10,7 @@
 <body>
 
     <div class="container">
-        <div class="grid grid-cols-4 gap-x-4">
+        <div class="grid grid-cols-4 gap-y-4">
             <div class="bg-blue-100">A</div>
             <div class="bg-blue-200">B</div>
             <div class="bg-blue-300">C</div>
