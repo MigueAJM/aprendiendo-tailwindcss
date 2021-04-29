@@ -6,16 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Tailwindcss</title>
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
-
-    <style>
-        /* Comprobar que la clase container si funciona */
-        .container{
-            background-color: cyan;
-        }
-    </style>
 </head>
 <body>
-    <div class="container mx-auto">
+    <div class="container">
         <h1>Este es un H1</h1>
         <h2>Este es un H2</h2>
         <h3>Este es un H3</h3>
