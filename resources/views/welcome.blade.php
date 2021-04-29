@@ -10,19 +10,11 @@
 <body>
 
     <div class="container">
-        <div class="grid grid-cols-12 gap-4">
-            <div class="bg-blue-100">A</div>
+        <div class="grid grid-cols-4 gap-4">
+            <div class="bg-blue-100 sm:col-span-2 md:col-span-3 lg:col-span-4">A</div>
             <div class="bg-blue-200">B</div>
             <div class="bg-blue-300">C</div>
             <div class="bg-blue-400">D</div>
-            <div class="bg-blue-500">C</div>
-            <div class="bg-blue-600">D</div>
-            <div class="bg-blue-100">A</div>
-            <div class="bg-blue-200">B</div>
-            <div class="bg-blue-300">C</div>
-            <div class="bg-blue-400">D</div>
-            <div class="bg-blue-500">C</div>
-            <div class="bg-blue-600">D</div>
         </div>
     </div>
 
